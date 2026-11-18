@@ -1,0 +1,5 @@
+%YAML:1.0
+---
+feature:
+   - {index:0, camera:FCB20120056, galvo:24122314}
+   - {index:1, camera:FCB23030381, galvo:12032278}
